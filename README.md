@@ -6,16 +6,16 @@ It is based on the core Metric-Plugin but gives you the ability to output custom
 ![image](img/demo.gif)
 
 ## Installation
-(only works for some Kibana 5.x-versions (sorry, I don't have the time to release a new version for every update, but you can choose the closest version and simply adjust the version-number in the `package.json`))
+(only works for some Kibana 6.x-versions (sorry, I don't have the time to release a new version for every update, but you can choose the closest version and simply adjust the version-number in the `package.json`))
 
-**6.1.1**
+**6.2.3**
 
 ```sh
-$ ./bin/kibana-plugin install https://github.com/ouyuwo/kibana_ext_metrics_vis/releases/download/6.1.1/kibana_ext_metrics_vis-6.1.1.zip
+$ ./bin/kibana-plugin install https://github.com/kabej/kibana_ext_metrics_vis/releases/download/6.2.3/kibana_ext_metrics_vis-6.2.3zip
 ```
 
 ### Manual
-(for other versions: e.g. 5.1.0)
+(for other versions: e.g. 6.2.3)
 
 Extract the ZIP into a new folder in your `kibana/plugins`-directory.
 
