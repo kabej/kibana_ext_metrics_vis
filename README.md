@@ -11,7 +11,7 @@ It is based on the core Metric-Plugin but gives you the ability to output custom
 **6.2.3**
 
 ```sh
-$ ./bin/kibana-plugin install https://github.com/kabej/kibana_ext_metrics_vis/releases/download/6.2.3/kibana_ext_metrics_vis-6.2.3zip
+$ ./bin/kibana-plugin install https://github.com/kabej/kibana_ext_metrics_vis/releases/download/6.2.3zip
 ```
 
 ### Manual
